@@ -1,9 +1,9 @@
 # Linked Lists
 
-##1 
+## 1 
 terrible
 
-##2
+## 2
 Added:
     * tail pointer
     * dummy nodes
