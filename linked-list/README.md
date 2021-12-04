@@ -5,5 +5,5 @@ terrible
 
 ## 2
 Added:
-    * tail pointer
-    * dummy nodes
+* tail pointer
+* dummy nodes
